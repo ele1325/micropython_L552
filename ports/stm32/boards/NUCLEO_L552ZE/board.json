@@ -1,0 +1,15 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "nucleo_l552ze.jpg"
+    ],
+    "mcu": "stm32l5",
+    "product": "Nucleo L4552ZE",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "ST Microelectronics"
+}
